@@ -1,0 +1,24 @@
+.PageBanner{
+    background: url(../Assets/slider3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.PageBanner > div{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.PageBanner h1{
+    font-weight: bold;
+}
+
+.PageBanner a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.PageBanner p{
+    color: whitesmoke;
+}
+

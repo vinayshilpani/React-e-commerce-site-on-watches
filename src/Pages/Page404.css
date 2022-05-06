@@ -1,0 +1,32 @@
+
+.page404{
+    background: url('../Assets/bg.png');
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+.page404 img{
+    height: 120px;
+    filter: drop-shadow(14px 20px 32px rgba(0, 0, 0, 0.25));
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    width: 470px;
+    margin-top: 30px;
+    align-items: center;
+}
+.text h1{
+    font-size: 80px;
+}
+.text p{
+    font-size: 20px;
+    margin-top: 23px;
+    margin-left: 5px;
+}

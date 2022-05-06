@@ -1,0 +1,91 @@
+.carousel{
+    background-color: #f8f7f6;
+    height: 88vh;
+}
+
+.carousel-inner{
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.carousel .carousel-item h1{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    color:  #d9d3cf;
+}
+
+
+.carousel .carousel-item img{
+    width: 18%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    animation-name: anime1;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes anime1 {
+    0%{
+        transform: translateY(-25px);
+    }
+    100%{
+        transform: translateY(20px);
+    }
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width: 150px !important;
+    position: relative;
+}
+
+.carousel-control-next-icon{
+    position: absolute;
+    left: 40%;
+    bottom: 5% !important;
+}
+
+.carousel-control-prev-icon{
+    position: absolute;
+    right: 40%;
+    bottom: 5% !important;
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .carousel{
+        height: 90vh;
+    }
+    .carousel .carousel-item h1{
+        display: block;
+        font-size: 4rem;
+    }        
+    .carousel .carousel-item img{
+        width: 50%;
+        display: inline-block;
+    }
+
+    .carousel-control-next, .carousel-control-prev{
+        width: 100px !important;
+        position: relative;
+    }
+
+    .carousel-control-next-icon{
+        position: absolute;
+        right: 0%;
+        bottom: 5% !important;
+    }
+    
+
+}
+
+
+

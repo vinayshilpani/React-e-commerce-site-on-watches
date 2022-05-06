@@ -1,0 +1,25 @@
+.footer{
+    background-color: lightgoldenrodyellow;
+    background-color: lightgray;
+}
+
+.footer img{
+    height: 50px;
+}
+
+
+.f-btn{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+    transition:  all 1s ease;
+}
+
+.f-btn:hover{
+    color: black;
+    font-weight: bold;
+}
+
+
+

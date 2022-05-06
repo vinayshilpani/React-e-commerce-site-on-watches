@@ -1,0 +1,56 @@
+.navbar .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.navbar .row img{
+    height: 50px;
+    margin: auto;
+}
+
+.navBtn{
+  text-decoration: none;
+  color: black;
+  font-size: 0.9rem;
+  margin: 0px 15px;
+  padding: 20px 0;
+  transition:  all .2s ease-out;
+}
+
+.navBtn:hover{
+    font-weight: bold;
+}
+
+.navbar .row a{
+    text-decoration: none;
+    color:  black;
+    margin-right: 18px;
+    transition: all .8s ease;
+}
+
+.navbar .row a i{
+    margin-right: 5px;
+    transition: all .8s ease;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler .collapsed{
+    border: none;
+}
+
+
+.navbar-collapsed{
+    border: none;
+}
+
+.nav-item{
+    list-style: none;
+    display: inline;
+}
+
+

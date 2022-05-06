@@ -1,0 +1,14 @@
+.dail div{
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+
+.dail div img{
+    transition: all .5s ease;
+}
+
+.dail div img:hover{
+    transform: scale(1.10);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+}

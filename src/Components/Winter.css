@@ -1,0 +1,10 @@
+.swiss .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.swiss img{
+    border-radius: 20px;
+}

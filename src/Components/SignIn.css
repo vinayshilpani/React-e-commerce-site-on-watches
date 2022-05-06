@@ -1,0 +1,32 @@
+
+.sign-btn div{
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.signin button{
+    border: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid transparent;
+    transition: all .8s ease;
+}
+
+
+.signin button:hover{
+    font-weight: bold;
+    transform: scale(1.10);
+}
+
+
+.sign-btn div img{
+    margin-right: 20px;
+}

@@ -1,0 +1,12 @@
+.b_img1{
+    background: url(../Assets//cms-banner-1.jpg);
+    border-radius: 20px;
+    color: white;
+    overflow: hidden;
+}
+
+.b_img2{
+    background: url(../Assets//cms-banner-2.jpg);
+    border-radius: 20px;
+    color: white;
+}

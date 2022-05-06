@@ -1,0 +1,32 @@
+.deal{
+    background: url(../Assets//deal-bg.jpg);
+    background-size: cover;
+    background-position-x: -20px;
+}
+
+.deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.deal img{
+    transform: translateY(-30px);
+    width: 300px;
+    animation-name: anime2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    
+}
+
+@keyframes anime2 {
+    0%{
+        transform: translateY(-25px);
+    }
+    100%{
+        transform: translateY(20px);
+    }
+}
+
