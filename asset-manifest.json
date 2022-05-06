@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-e-commerce-site-on-watches/static/css/main.7dd7f8e8.css",
+    "main.js": "/React-e-commerce-site-on-watches/static/js/main.beeb6c79.js",
+    "static/media/feature.png": "/React-e-commerce-site-on-watches/static/media/feature.e4facb29434821a5a4c0.png",
+    "static/media/slider3.jpg": "/React-e-commerce-site-on-watches/static/media/slider3.372f423db0dcc83b5641.jpg",
+    "static/media/cat3.png": "/React-e-commerce-site-on-watches/static/media/cat3.f2057ead9bce935c6cb5.png",
+    "static/media/cat2.png": "/React-e-commerce-site-on-watches/static/media/cat2.3f1cd1767b2d953f2e01.png",
+    "static/media/pexels-pixabay-277319.jpg": "/React-e-commerce-site-on-watches/static/media/pexels-pixabay-277319.30be8e24fb6055791932.jpg",
+    "static/media/cat1.png": "/React-e-commerce-site-on-watches/static/media/cat1.913957971bce7aadc6c7.png",
+    "static/media/asset 2.png": "/React-e-commerce-site-on-watches/static/media/asset 2.d2b22f1f2e2b166cd278.png",
+    "static/media/asset 1.png": "/React-e-commerce-site-on-watches/static/media/asset 1.745b9a89664e18dc5d23.png",
+    "static/media/bg.png": "/React-e-commerce-site-on-watches/static/media/bg.0e627476bf5b305984cd.png",
+    "static/media/asset 3.png": "/React-e-commerce-site-on-watches/static/media/asset 3.28b95e53f5a3235c6bf3.png",
+    "static/media/about1.png": "/React-e-commerce-site-on-watches/static/media/about1.43348316fbbd1e820f2b.png",
+    "static/media/product1.png": "/React-e-commerce-site-on-watches/static/media/product1.c208c14387789bc4020a.png",
+    "static/media/product2.png": "/React-e-commerce-site-on-watches/static/media/product2.dd8924f4904c70c9b0dc.png",
+    "static/media/asset 5.jpg": "/React-e-commerce-site-on-watches/static/media/asset 5.3aec7010f27f3276f613.jpg",
+    "static/media/product4.png": "/React-e-commerce-site-on-watches/static/media/product4.a7ce110125da7e42f9f3.png",
+    "static/media/deal-watch.png": "/React-e-commerce-site-on-watches/static/media/deal-watch.97a8ed24e78e90d73edd.png",
+    "static/media/product7.png": "/React-e-commerce-site-on-watches/static/media/product7.e9d572f6eaec9995f80a.png",
+    "static/media/product5.png": "/React-e-commerce-site-on-watches/static/media/product5.0b77d3dae2985aa6f6d4.png",
+    "static/media/Google__G__Logo.svg.png": "/React-e-commerce-site-on-watches/static/media/Google__G__Logo.svg.14b77d0f81270d2d6a75.png",
+    "static/media/deal-bg.jpg": "/React-e-commerce-site-on-watches/static/media/deal-bg.decf1ae611b75d64d22a.jpg",
+    "static/media/product8.png": "/React-e-commerce-site-on-watches/static/media/product8.c116f6d4daa6d64e40e7.png",
+    "static/media/product6.png": "/React-e-commerce-site-on-watches/static/media/product6.2b3c5d47a24ca49e9df7.png",
+    "static/media/cms-banner-2.jpg": "/React-e-commerce-site-on-watches/static/media/cms-banner-2.ee9587e054af26b5f9eb.jpg",
+    "static/media/product3.webp": "/React-e-commerce-site-on-watches/static/media/product3.eef29925dc7b9fec396f.webp",
+    "static/media/cms-banner-1.jpg": "/React-e-commerce-site-on-watches/static/media/cms-banner-1.0ae7e5de8347a4ef2c07.jpg",
+    "static/media/product9.webp": "/React-e-commerce-site-on-watches/static/media/product9.d82530eae5b81279a9b0.webp",
+    "static/media/logo.png": "/React-e-commerce-site-on-watches/static/media/logo.3636cee93950b1352283.png",
+    "static/media/plate.svg": "/React-e-commerce-site-on-watches/static/media/plate.677f1cf65421b2d00512a32450bd13dc.svg",
+    "index.html": "/React-e-commerce-site-on-watches/index.html",
+    "main.7dd7f8e8.css.map": "/React-e-commerce-site-on-watches/static/css/main.7dd7f8e8.css.map",
+    "main.beeb6c79.js.map": "/React-e-commerce-site-on-watches/static/js/main.beeb6c79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd7f8e8.css",
+    "static/js/main.beeb6c79.js"
+  ]
+}
